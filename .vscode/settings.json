@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./stats",
+        "./models/autoencoders"
+    ]
+}
