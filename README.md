@@ -1,4 +1,4 @@
-# Autoencoder-Based Feature Selection and Optimization for Machine Settings Enhancement
+# Master Thesis Project
 
 This repository contains the implementation of the methodology described in the master's thesis:
 
